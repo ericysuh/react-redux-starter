@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-starter",
+  "version": "1.0.0",
+  "description": "Customized starte app for react + redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericysuh/react-redux-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericysuh/react-redux-starter/issues"
+  },
+  "homepage": "https://github.com/ericysuh/react-redux-starter#readme"
+}
